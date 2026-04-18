@@ -12,3 +12,5 @@ Customizable:
 
 Exploring:
 1. combining pairs in asset allocation
+2. Kalman Filter on optimal hedging ratio beta-neutral
+3. grind more pairs...
